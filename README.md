@@ -1,6 +1,3 @@
-# 
-Designed and developed an advanced Power BI dashboard to analyze Blinkits sales, customer trends,
- and product performance metrics. Integrated and cleaned raw data for analysis, implemented dynamic
- filters, and created visually appealing charts to display key KPIs. Delivered actionable insights into sales
- trends, operational e ciency, and customer preferences, aiding in data-driven decision-making and
- strategicplanning
+Created an interactive Power BI report to analyze World Cup data, focusing on team and player performances, match outcomes, and tournament trends. The report includes dashboards for overall statistics, top players, team comparisons, match-level insights, and geographical visuals. Used DAX, Power Query, and slicers for dynamic filtering and insights. Identified top performers, consistent teams, and win/loss patterns across multiple seasons. Enabled users to drill through match and player data with detailed visualizations. Delivered a clean and interactive report for strategic sports analysis.
+
+
